@@ -1,3 +1,5 @@
+package br.com.api;
+
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
@@ -21,6 +23,11 @@ import static br.com.UTIL.Constants.*;
 @Controller
 public class SmellController {
     private List<OutputSmells> listSmells;
+
+    @RequestMapping( "/" )
+    public String getStockItem() {
+        return "It's working...!";
+    }
 
     @RequestMapping(value = "/DeepNestedLayout", method = RequestMethod.POST)
     public ResponseEntity<List<OutputSmells>> deepNestedLayout(@RequestParam("repository") String repository) {
