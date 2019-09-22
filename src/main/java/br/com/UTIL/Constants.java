@@ -5,9 +5,9 @@ public class Constants {
     public static String XML_EXTENSION = ".xml";
     public static String XML = "XML";
     public static String JAVA = "JAVA";
-    public static String PATH_SAVE_JSON = "/result/";
-    public static String PATH_SAVE_OUTPUT = "/result/json/";
-    public static String PATH_CLONE_REPOSITORY = "/checkoutrepositories/";
+    public static String PATH_SAVE_JSON = "./";
+    public static String PATH_SAVE_OUTPUT = "./";
+    public static String PATH_CLONE_REPOSITORY = "./";
     public static String ACTIVITY = "Activity";
     public static String BASEACTIVITY = "BaseActivity";
     public static String FRAGMENT = "Fragment";
