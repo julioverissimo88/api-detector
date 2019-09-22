@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b01d4099-d977-4982-8937-b2509e1b2595" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SmellController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/api/SmellController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/api/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/api/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/UTIL/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/UTIL/Constants.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,13 +22,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/api/SmellController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/UTIL/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -57,12 +52,12 @@
         <option value="$PROJECT_DIR$/src/main/java/UTIL/Threshold.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/AndroidDetector/AndroidJavaCodeSmells.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/UTIL/Constants.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/UTIL/ApiReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/UTIL/ReusoStringData.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/UTIL/Threshold.java" />
         <option value="$PROJECT_DIR$/src/main/java/SmellController.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/api/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/UTIL/Constants.java" />
       </list>
     </option>
   </component>
@@ -112,6 +107,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api-detector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-detector" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="UTIL" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -164,20 +168,20 @@
       <option name="presentableId" value="Default" />
       <updated>1569095481732</updated>
       <workItem from="1569095483326" duration="51000" />
-      <workItem from="1569095581759" duration="9540000" />
+      <workItem from="1569095581759" duration="10280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9591000" />
+    <option name="totallyTimeSpent" value="10331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Web" sideWeight="0.502439" side_tool="true" weight="0.25340393" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49861497" visible="true" weight="0.17857143" />
-      <window_info id="Structure" order="1" sideWeight="0.50138503" side_tool="true" visible="true" weight="0.17857143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.17857143" />
+      <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" visible="true" weight="0.17857143" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -189,13 +193,13 @@
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21776815" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21776815" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Bean Validation" />
@@ -290,13 +294,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/UTIL/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/UTIL/ApiReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -340,6 +337,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/UTIL/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
         </state>
       </provider>
     </entry>
